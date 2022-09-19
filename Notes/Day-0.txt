@@ -62,4 +62,8 @@ Argo Roadmap Updates:
                 Dynamic event sources:
                     Watch a kafka topic and publish events to different categories
                 Tracing / Open Telemetry
-            
+From Code to Docs to Marketing:                
+    Link: https://sched.co/16Z5t
+    Presenter: Dan Garfield, Remmington Breeze, Julie Vogelman, Jesse Suen, Alex Matyushentsev, Michael Crenshaw, Regina Voloshin
+    Notes: 
+        

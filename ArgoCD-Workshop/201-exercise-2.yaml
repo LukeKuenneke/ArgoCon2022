@@ -1,0 +1,2 @@
+github_token=<Your GiHub Token>
+echo '{"apiVersion": "v1", "kind": "Secret", "metadata": {"name": "github-token"}, "stringData": {"token": "'$github_token'"}}' | kubectl apply -n argocd -f -
