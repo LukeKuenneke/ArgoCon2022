@@ -1,0 +1,65 @@
+ArgoCon Day 0 - 09/19/2022
+
+Argo Welcome
+    Link: https://sched.co/16qUk
+    Presenter: Pratik Wadher
+    Notes:
+        Announcements / Releases:
+            Argo Rollouts 1.2
+            Argo Events 3.4 
+Argo Roadmap Updates:
+    Link: https://sched.co/16ixh
+    Argo CD:
+        Presenter: Alex Matyushentsev
+        Notes:
+            Image Updater: https://argocd-image-updater.readthedocs.io/en/stable/
+        ArgoRollouts:
+            Presenter: Jesse Suen
+            Notes:
+                Rollout strategry best practice:
+                    5% canary
+                    5% baseline
+                    90% existing workflows
+                Version 1.3 Notes:
+                    Header based routing (Istio)
+                    Traffic mirroring (Istio)
+                    Failure analysis visual inferences / recommendations
+                Roadmap:
+                    Dashboard authentication / auth
+                    Gateway API (Contour, Kong, Kuma)
+                    Documentation Improvements
+    Argo Workflows:
+        Presenter: Saravanan Balasubramanian
+        Notes:
+            Version 3.3:
+                Lifecycle hooks
+                Plugins
+                Namespace level RBAC
+            Version 3.4:
+                Artifact management / visualization
+                Artifact retention policy support based on workflow step status
+            Version 3.5:
+                Tech debt cleanup
+                Feature hardening
+                Bug fixes
+            Version 3.5:                
+                Multi-cluster workflow
+    Argo Events:
+        Presenter: Derek Wang
+        Notes:
+            Latest:
+                New eventbus implementation (JetStream)
+                LUA scripting support for sensor filtering
+                More EventSources added
+                EventSource transformation with LUA or JQ
+                Condition trigger reset
+                HA and combined controllers
+                Cybersecurity audit and risk mitigation
+            Roadmap:
+                HOt reloading without pod restart
+                Error/failure reporting mechanism
+                Configmap and database store support
+                Dynamic event sources:
+                    Watch a kafka topic and publish events to different categories
+                Tracing / Open Telemetry
+            

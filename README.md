@@ -1,2 +1,4 @@
 # ArgoCon2022
-ArgoCon Scratch Pad
+## Event: https://events.linuxfoundation.org/argocon/
+## Schedule: https://events.linuxfoundation.org/argocon/program/schedule/
+### ArgoCon Scratch Pad
