@@ -1,0 +1,9 @@
+ArgoCon Day 0 - 09/19/2022
+
+Argo CD & Rollouts Workshop
+    Link: https://sched.co/16kyw
+    Presenter: Zach Aller, Hari Rongali
+    Notes:
+        General: https://github.com/argocon22Workshop/ArgoCDRollouts
+        Part 1: https://github.com/argocon22Workshop/ArgoCDRollouts/blob/main/docs/101_README.md
+        Part 2: https://github.com/argocon22Workshop/ArgoCDRollouts/blob/main/docs/201_README.md
