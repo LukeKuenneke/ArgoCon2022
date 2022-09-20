@@ -1,0 +1,19 @@
+ArgoCon Day 1 - 09/20/2022
+
+Scaling Argo for the Enterprise
+    Link: https://sched.co/14lwn
+    Presenter: Thansha Sadacharam, Raziel Tabib
+    Notes:
+        Re-evaluate onboarding process
+        Time to first PR for issue / task metrics (~3 days is VERY good)
+Keynote: Challenging the Status Quo with Kubernetes and Argo - Hong Wang, Co-Founder and CEO, Akuity
+    Link: https://sched.co/14lxK
+    Presenter: Hong Wang
+    Notes:
+Keynote: Keynote: Smarter Progressive Delivery at Intuit - Ed Lee, Fellow & Chief Architect, Development Platforms, Intuit
+    Link: https://sched.co/14lxc
+    Presenter: Ed Lee
+    Notes:
+        ArgoCD supports Prometheus metrics at /metrics endpoint
+        Evaluate Numaproj and its applicability for our data processing and ingestion pipeline
+        ArgoVerse for online collaboration, coordination, and incluson
