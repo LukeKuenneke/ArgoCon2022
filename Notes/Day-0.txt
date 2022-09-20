@@ -66,4 +66,5 @@ From Code to Docs to Marketing:
     Link: https://sched.co/16Z5t
     Presenter: Dan Garfield, Remmington Breeze, Julie Vogelman, Jesse Suen, Alex Matyushentsev, Michael Crenshaw, Regina Voloshin
     Notes: 
+        Review ArgoCD GitHub issues templates and evaluate for use in defining Jira template tasks
         
