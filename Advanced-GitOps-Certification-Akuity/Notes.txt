@@ -1,0 +1,7 @@
+Title: Advanced GitOps Certification - Hands-on Workshop Hosted by Akuity
+    Link: https://sched.co/156AQ
+    Presenter: Alex Matyushentsev
+    Notes:
+        Materials: https://github.com/argocon2022-workshop
+        Technologies: Dex, Casbin
+        
