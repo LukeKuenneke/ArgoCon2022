@@ -1,0 +1,12 @@
+[submodule "Advanced-GitOps-Certification-Akuity/demo-app-deploy"]
+	path = Advanced-GitOps-Certification-Akuity/demo-app-deploy
+	url = https://github.com/argocon2022-workshop/demo-app-deploy.git
+[submodule "Advanced-GitOps-Certification-Akuity/.github"]
+	path = Advanced-GitOps-Certification-Akuity/.github
+	url = https://github.com/argocon2022-workshop/.github.git
+[submodule "Advanced-GitOps-Certification-Akuity/demo-app"]
+	path = Advanced-GitOps-Certification-Akuity/demo-app
+	url = https://github.com/argocon2022-workshop/demo-app.git
+[submodule "Advanced-GitOps-Certification-Akuity/control-plane"]
+	path = Advanced-GitOps-Certification-Akuity/control-plane
+	url = https://github.com/argocon2022-workshop/control-plane.git
